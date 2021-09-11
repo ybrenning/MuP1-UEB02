@@ -1,0 +1,2 @@
+## MuP1-UEB02
+Assignments and solutions for the 2020 **"Modellierung und Programmierung 1"** course taught by Dr. Zeckzer at the University of Leipzig.
